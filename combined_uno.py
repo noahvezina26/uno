@@ -1,5 +1,5 @@
-# Alex Segal, Noah Vezina
-# Implementation: skips player turn if card is invalid or if no valid cards are in hand
+# Alex Segal, Noah Vezina + Toranj Najafi, Zaccaria Broomhall Bedont
+# Implementation: skips player turn if card is invalid or if no valid cards are in hand & plus two
 
 import random
 
